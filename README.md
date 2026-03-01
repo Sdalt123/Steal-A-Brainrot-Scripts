@@ -1,2 +1,3 @@
 # Steal-A-Brainrot-Scripts
-Steal A Brainrot Cheat
+Welcome to my Github page:
+here I have my own harmless scripts, I swear they are virus-free
